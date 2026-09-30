@@ -1,0 +1,7 @@
+# Internal publishing instructions - never committed
+PUBLISHING.md
+
+# Editor / OS
+.DS_Store
+*.swp
+*.swo
